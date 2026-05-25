@@ -16,7 +16,7 @@ Atualmente, um colaborador de uma empresa organiza suas atividades utilizando an
 * dificuldade em visualizar o que ainda precisa ser feito;
 * ausência de organização do fluxo de trabalho.
   
-Para resolver esse problema, foi solicitado o desenvolvimento de um sistema simples que permita ao colaborador organizar suas atividades em etapas e acompanhar seu progresso ao longo do dia.
+Para resolver esse problema, foi solicitado o desenvolvimento de um sistema simples (em linguagem de programação C) que permita ao colaborador organizar suas atividades em etapas e acompanhar seu progresso ao longo do dia.
 
 # 2. Organização das atividades
 
@@ -82,4 +82,3 @@ Sempre que ocorrer um erro, o programa deverá exibir mensagens claras ao usuár
 * buscas sem resultado;
 * cadastro de atividades com nome vazio;
 * tentativa de cadastrar atividades duplicadas.
-
