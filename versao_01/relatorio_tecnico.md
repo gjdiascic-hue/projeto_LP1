@@ -11,10 +11,13 @@
 # 1. Descrição Geral do Sistema
 
 Para solucionar o problema do colaborador de uma empresa e facilitar o acompanhamento de suas atividaades, será desenvolvido um sistema que funcionará como uma agenda/planner ajudando na organização e no acompanhamento das tarefas realizadas ao longo dia.
-O usuário poderá acessar uma lista com todas as atividades a serem desenvolvidas ou que já foram desenvolvidas ao longo do dia, bem como, acompanhará seu status: precisa ser feita; está em andamento ou foi concluída. Sempre que o usuário desejar, poderá cadastrar uma nova atividade, contanto que ela ainda não tenha sido iniciada. E sempre deverá ser identificada por um nome. Caso, ele queira mudar o status, conseguirá facilmente. 
+O usuário poderá acessar uma lista com todas as atividades a serem desenvolvidas ou que já foram desenvolvidas ao longo do dia, bem como, acompanhará seu status: precisa ser feita; está em andamento ou foi concluída. Sempre que o usuário desejar, poderá cadastrar uma nova atividade, contanto que ela ainda não tenha sido iniciada. E sempre deverá ser identificada por um nome. Caso, ele queira mudar o status, conseguirá facilmente.
 
+O usuário acessa o sistema e um menu é exibido, ele escolhe cadastrar uma nova atividade ou acessar a lista de atividades ou sair, para fechar o menu.
+Quando ele quiser sair, deverá aparecer uma mensagem confirmando a saída. Da mesma forma, caso ele cadastre, receberá uma mensagem confirmando o cadastro.
 
 # 2. Funcionalidades Implementadas
+
 
 # 3. Solução do problema
 
