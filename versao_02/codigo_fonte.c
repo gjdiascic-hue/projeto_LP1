@@ -2,7 +2,7 @@
 #include <string.h>
 
 int main(){
-	int opcao = 0, atv_pendentes = 0;
+	int opcao = 0, atv_pendentes = 0, atv_cadastradas = 0;
 	char nome_atv[50], desc_atv[100];
 	int status_atv;
     
@@ -69,11 +69,14 @@ int main(){
                 
                 status_atv = 0;
                 
-                printf("\n");
                 printf("Atividade cadastrada com sucesso!");
                 printf("\n\n");
                 break;  
             case 2:
+                if(atv_cadastradas == 0){
+                    printf("Voce nao tem atividades cadastradas.\n\n");
+                    break;
+                }
                 printf("+--------------------------------------------------------+\n");
                 printf("|                 LISTA DE ATIVIDADES                    |\n");
                 printf("+--------------------------------------------------------+");
