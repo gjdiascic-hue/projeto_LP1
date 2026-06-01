@@ -1,6 +1,6 @@
 # Projeto – Sistema de Organização e Acompanhamento de Atividades
 
-Universidade Estadual de Santa Cruz
+Universidade Estadual de Santa Cruz  
 **Curso:** Ciência da Computação  
 **Disciplina:** Linguagem de Programação I  
 **Discente:** Giselly Jahel Dias  
