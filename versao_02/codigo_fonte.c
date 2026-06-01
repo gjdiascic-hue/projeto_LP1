@@ -67,6 +67,8 @@ int main(){
                     desc_atv[tam_desc - 1] = '\0';
                 }
                 
+                status_atv = 0;
+                
                 printf("\n");
                 printf("Atividade cadastrada com sucesso!");
                 printf("\n\n");
@@ -79,14 +81,15 @@ int main(){
                 printf("Nome: %s\n", nome_atv);
                 printf("Descricao: %s\n", desc_atv);
                 if(status_atv == 0){
-                   printf("A fazer"); 
+                   printf("Status: A fazer.\n"); 
                 }
                 if(status_atv == 1){
-                   printf("Em andamento"); 
+                   printf("Status: Em andamento.\n"); 
                 }
                 if(status_atv == 2){
-                   printf("Concluido"); 
+                   printf("Status: Concluido\n."); 
                 }
+                printf("\n");
                 break;   
             case 3:
                 do{
