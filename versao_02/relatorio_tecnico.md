@@ -11,7 +11,7 @@
 
 # 1. Descrição Geral do Sistema
 
-A fim de solucionar os problemas enfretados pelo colaborador de uma empresa, como o esquecimento de tarefas importantes, perda de informações, e a falta de organização; será desenvolvido um sistema que funcionará como uma agenda digital. O objetivo principal da ferramenta é ser útil na organização e no acompanhamento de tarefas realizadas diariamente. 
+A fim de solucionar os problemas enfrentados pelo colaborador de uma empresa, como o esquecimento de tarefas importantes, perda de informações, e a falta de organização; será desenvolvido um sistema que funcionará como uma agenda digital. O objetivo principal da ferramenta é ser útil na organização e no acompanhamento de tarefas realizadas diariamente. 
 O usuário terá acesso a uma lista com todas as atividades a serem desenvolvidas ou que já foram desenvolvidas ao longo daquele dia. Para facilitar o controle do progresso, o sistema divide as tarefas em três etapas: A fazer, Em andamento e Concluído. Além do nome, que é obrigatório, o usuário também poderá adicionar uma breve descrição da atividade, contendo as informações mais importantes.
 Como um diferencial para otimizar o fluxo de trabalho, o colaborador poderá classificar cada atividade por nível de prioridade (identificando se ela é importante/crítica ou se pode ser adiada). O sistema conta ainda com lembretes que avisam o usuário sobre pendências assim que o programa é iniciado. Sempre que o usuário desejar, será possível cadastrar uma nova atividade ou alterar o status de uma tarefa existente para acompanhar a evolução de sua rotina de trabalho a qualquer momento. 
 
